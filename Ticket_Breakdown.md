@@ -16,3 +16,17 @@ Based on the information given, break this ticket down into 2-5 individual ticke
 You will be graded on the level of detail in each ticket, the clarity of the execution plan within and between tickets, and the intelligibility of your language. You don't need to be a native English speaker, but please proof-read your work.
 
 ## Your Breakdown Here
+
+Assumptions
+The team working is a mixed team of Frontend Developers, Backend Developers and Full Stack Developers
+The project is using SQL database
+Design/mockups are provided if the case
+Admin System will be based on user groups and will include: Facilities_Group - this group is limited to Facilities Users and Super_Admins - this group have full access to entire system
+
+## [DEV-001_Generate_reports_for_our_client_Facilities](Ticket_Breakdown/DEV-001_Generate_reports_for_our_client_Facilities.md) - OPEN
+
+SUB-TASKS:
+### [DEV-002_Create_New_Database_Table](Ticket_Breakdown/DEV-002_Create_New_Database_Table.md) - OPEN
+### [DEV-003_update_function_getShiftsByFacility](Ticket_Breakdown/DEV-003_update_function_getShiftsByFacility.md) - OPEN
+### [DEV-004_Create_new_CRUD_page](Ticket_Breakdown/DEV-004_Create_new_CRUD_page.md) - OPEN
+### [DEV-005_Documentation_and_Handover](Ticket_Breakdown/DEV-005_Documentation_and_Handover) - OPEN
